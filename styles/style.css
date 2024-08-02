@@ -425,7 +425,7 @@ button.btnFoot {
     line-height: 24px;
     text-align: left;
 }
-.footer-bottom {
+.footer-bottomText {
     position: relative;
     bottom: 90px;
 }
