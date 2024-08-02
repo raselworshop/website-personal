@@ -117,6 +117,9 @@ img.circle-image {
     width: 70%;
     height: 100%;
 }
+.fa-solid{
+    padding: 5px;
+}
 
 
 /* responsive section */
